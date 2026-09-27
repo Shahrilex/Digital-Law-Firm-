@@ -1,0 +1,10 @@
+- Project name: Jurist Assistant (دستیار حقوقدان)
+- Product: Legal practice management software for Iranian lawyers, law firms, judicial experts
+- Versions: Free / Pro / Ultra Pro
+- Tech stack decision: ASP.NET Core backend, Flutter mobile, Next.js or React frontend preferred, PostgreSQL
+- Architecture: Modular Monolith, Multi-Tenant via Workspace
+- Key differentiators: Precise Iranian legal deadlines engine, AI legal assistant with RAG, specialized trust accounting
+- Documentation completed: Master architecture, ERD, Screen Inventory, Deadlines Engine, Design System, User Stories Phase 1-2, Security, AI Layer, Roadmap
+- Current status: Runnable interactive prototype complete. Pages: login/verify, dashboard, clients, cases, deadlines, settings with mock data and RTL AppShell. Backend models + SQL ready. Commits up to c426f8e. User can run with: cd frontend && npm install && npm run dev [2026-09-27]
+- Project path: /home/workdir/artifacts/jurist-assistant
+- Key folders: docs/, backend/, frontend/, mobile/
